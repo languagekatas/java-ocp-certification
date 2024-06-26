@@ -1,0 +1,21 @@
+=== Comments
+:toc:
+:icons: font
+:source-highlighter: rouge
+:doctype: book
+:diagram:
+
+[plantuml, comments-mental-map, svg]
+----
+@startmindmap
++ Comments
+++ // single-line comment
+++ /* Multi line comment */
+++ /** JavaDoc @author x */
+@endmindmap
+----
+
+[source, java]
+----
+include::../../src/main/java/com/alexdeveng/java17/Comments.java[]
+----

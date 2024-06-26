@@ -1,0 +1,21 @@
+=== Main
+:toc:
+:icons: font
+:source-highlighter: rouge
+:doctype: book
+:diagram:
+
+[plantuml, main-mental-map, svg]
+----
+@startmindmap
+
+* Main
+***_ lets the JVM call our code
+
+@endmindmap
+----
+
+[source, java]
+----
+include::../../src/main/java/com/alexdeveng/java17/Main.java[]
+----

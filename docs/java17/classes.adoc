@@ -1,0 +1,42 @@
+=== Classes
+:toc:
+:icons: font
+:source-highlighter: rouge
+:doctype: book
+:diagram:
+
+[plantuml, classes-mental-map, svg]
+----
+@startmindmap
+
++ Classes
+++ Class members
++++ Fields
+++++_ Known as variables
+++++_ Holds the state of the program
++++ Methods
+++++_ Also called functions or procedures
+++++_ Methods operate on that state
+++++_ Is an operation that can be called
+++++ Return
++++++_ Information
+++++ Parameter
++++++_ Information supplied to a method
+++++ Method signature
++++++_ method name + parameter
+
+++ Java file
++++_ A java file can contain many classes but only one public
++++_ The public class and the java file name should be the same
+
+++ Top-level type
++++_ Is a data structure that can be defined independently in a java file
++++_ Class is a Top-level type
+
+@endmindmap
+----
+
+[source, java]
+----
+include::../../src/main/java/com/alexdeveng/java17/Classes.java[]
+----
