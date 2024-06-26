@@ -1,9 +1,4 @@
-=== Classes
-:toc:
-:icons: font
-:source-highlighter: rouge
-:doctype: book
-:diagram:
+= Classes
 
 [plantuml, classes-mental-map, svg]
 ----

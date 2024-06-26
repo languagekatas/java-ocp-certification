@@ -1,9 +1,4 @@
-=== Comments
-:toc:
-:icons: font
-:source-highlighter: rouge
-:doctype: book
-:diagram:
+= Comments
 
 [plantuml, comments-mental-map, svg]
 ----

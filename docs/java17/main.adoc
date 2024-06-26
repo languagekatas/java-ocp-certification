@@ -1,9 +1,4 @@
-=== Main
-:toc:
-:icons: font
-:source-highlighter: rouge
-:doctype: book
-:diagram:
+= Main
 
 [plantuml, main-mental-map, svg]
 ----
