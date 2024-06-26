@@ -1,4 +1,5 @@
 = Comments
+include::../attributes.adoc[]
 
 [plantuml, comments-mental-map, svg]
 ----
@@ -12,5 +13,5 @@
 
 [source, java]
 ----
-include::../../src/main/java/com/alexdeveng/java17/Comments.java[]
+include::{source-dir}/com/alexdeveng/java17/Comments.java[]
 ----

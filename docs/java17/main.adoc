@@ -1,4 +1,5 @@
 = Main
+include::../attributes.adoc[]
 
 [plantuml, main-mental-map, svg]
 ----
@@ -12,5 +13,5 @@
 
 [source, java]
 ----
-include::../../src/main/java/com/alexdeveng/java17/Main.java[]
+include::{source-dir}/com/alexdeveng/java17/Main.java[]
 ----

@@ -1,11 +1,8 @@
 = Java Oracle Certified Programmer Reference
 :toc:
 :doctype: book
-
 :leveloffset: 1
 
 include::docs/java17/main.adoc[]
-
 include::docs/java17/comments.adoc[]
-
 include::docs/java17/classes.adoc[]
